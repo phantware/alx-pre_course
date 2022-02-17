@@ -1,3 +1,5 @@
+# ignore
+~
 git checkout update_script
 git fetch
 git merge main
